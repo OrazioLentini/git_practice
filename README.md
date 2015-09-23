@@ -8,3 +8,5 @@ Some information about section one
 
 - Don't rebase a public repository
 - And always keep your code in sync with the remote to get the latest changes
+#Alex Section
+This section belongs to Alexander Bartolo. Git with it.
