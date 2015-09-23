@@ -8,5 +8,8 @@ Some information about section one
 
 - Don't rebase a public repository
 - And always keep your code in sync with the remote to get the latest changes
-#Alex Section
+#Alex Section - Main
 This section belongs to Alexander Bartolo. Git with it.
+
+#Alex Section - Sub Section
+Under the summary is having things to do with space and time. Like in the movies.
