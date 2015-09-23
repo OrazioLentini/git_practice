@@ -7,3 +7,4 @@ Some information about section one
 #### **Important** 
 
 - Don't rebase a public repository
+- And always keep your code in sync with the remote to get the latest changes
