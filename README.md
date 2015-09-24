@@ -8,6 +8,7 @@ Some information about section one
 
 - Don't rebase a public repository
 - And always keep your code in sync with the remote to get the latest changes
+
 #Alex Section - Main
 This section belongs to Alexander Bartolo. Git with it.
 
@@ -19,3 +20,7 @@ This is the final edit! Enjoy.
 
 ## Section 3
 Some info for section 3
+
+## ORAZIO 
+- The mets are the best team in the world and will win the world series!
+- The redskins suck and will finish 6 - 10. 
