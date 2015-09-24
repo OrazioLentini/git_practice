@@ -24,3 +24,6 @@ Some info for section 3
 ## ORAZIO 
 - The mets are the best team in the world and will win the world series!
 - The redskins suck and will finish 6 - 10. 
+
+- Starcraft is the best game in the world. 
+- The Cowboys will win the superbowl.
