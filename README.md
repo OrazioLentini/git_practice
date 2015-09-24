@@ -27,3 +27,5 @@ Some info for section 3
 
 - Starcraft is the best game in the world. 
 - The Cowboys will win the superbowl.
+
+- o_O what is a rebase?
